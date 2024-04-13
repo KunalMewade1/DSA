@@ -16,7 +16,7 @@ public class PrimeOptimal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n=7;
+		int n=9;
 		boolean ans=isPrime(n);
 		if(n!=1&& ans==true)
 		{
